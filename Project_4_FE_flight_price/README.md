@@ -2,7 +2,7 @@
 I have worked on this project by keeping Feature Engineering in mind.
 Libraries Used - Pandas, Numpy, sklearn
 
-The data is taken from [Link_text](https://www.kaggle.com/)
+The data is taken from [Kaggle dataset](https://www.kaggle.com/)
 ## Highlights of the project
 1. Transforming the data types
 2. Cleaning data and handling missing values
