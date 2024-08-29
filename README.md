@@ -4,7 +4,7 @@ This repository contains a collection of data science and machine learning proje
 
 ## Projects Overview
 
-### [1. US Bikeshare Data Analysis](Projects/Project_1_Bikes/README.md)
+### [1. US Bikeshare Data Analysis](Project_1_Bikes/README.md)
 - **Objective**: Analyze bikeshare usage patterns in Chicago, New York City, and Washington.
 - **Key Features**: Interactive CLI, data filtering, statistical analysis.
 - **Libraries Used**: pandas, numpy, time, math
