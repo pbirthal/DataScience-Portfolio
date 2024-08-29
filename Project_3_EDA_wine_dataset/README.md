@@ -39,7 +39,7 @@ The dataset includes the following attributes:
    <details>
    <summary>Preview</summary>
    
-   ![Pairplot](path/to/pairplot.png)
+   ![Pairplot](pairplot.png)
    </details>
 
 2. Box Plot: Alcohol content distribution for different quality ratings
