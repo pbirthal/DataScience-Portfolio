@@ -34,9 +34,27 @@ The dataset includes the following attributes:
    - Scatter plot to explore the relationship between alcohol content, pH, and quality
 
 ## Key Visualizations
-1. Pairplot: Provides an overview of relationships between all variables
-2. Box Plot: Shows the distribution of alcohol content for different quality ratings
-3. Scatter Plot: Illustrates the relationship between alcohol content and pH, with quality as a hue
+
+1. Pairplot: Overview of relationships between all variables
+   <details>
+   <summary>Preview</summary>
+   
+   ![Pairplot](path/to/pairplot.png)
+   </details>
+
+2. Box Plot: Alcohol content distribution for different quality ratings
+   <details>
+   <summary>Preview</summary>
+   
+   ![Box Plot](path/to/boxplot.png)
+   </details>
+
+3. Scatter Plot: Alcohol content vs pH, with quality as hue
+   <details>
+   <summary>Preview</summary>
+   
+   ![Scatter Plot](path/to/scatterplot.png)
+   </details>
 
 ## Insights
 - The analysis reveals potential correlations between various wine attributes and quality
