@@ -29,6 +29,11 @@ This repository contains a collection of data science and machine learning proje
 - **Key Features**: Data cleaning, EDA, visualization of app trends.
 - **Libraries Used**: Pandas, NumPy, Seaborn, Matplotlib
 
+### [6. Sakila Movie Database Analysis](SQL_Project/README.md)
+- **Objective**: Analyze trends and patterns in database.
+- **Key Features**: Data cleaning, Data Analysis.
+- **Tools Used**: SQL, PostgreSQL
+- 
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
