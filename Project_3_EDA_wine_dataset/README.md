@@ -46,14 +46,14 @@ The dataset includes the following attributes:
    <details>
    <summary>Preview</summary>
    
-   ![Box Plot](path/to/boxplot.png)
+   ![Box Plot](boxplot.png)
    </details>
 
 3. Scatter Plot: Alcohol content vs pH, with quality as hue
    <details>
    <summary>Preview</summary>
    
-   ![Scatter Plot](path/to/scatterplot.png)
+   ![Scatter Plot](scatterplot.png)
    </details>
 
 ## Insights
