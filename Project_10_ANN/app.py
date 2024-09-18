@@ -5,9 +5,14 @@ import tensorflow as tf
 import pickle 
 from tensorflow.keras.models import load_model
 from sklearn.preprocessing import StandardScaler,LabelEncoder, OneHotEncoder
-
-model = load_model('model.h5')
-
+import os
+#model = load_model('model.h5')
+# Ensure the model file is included in the GitHub repository
+model_path = 'model.h5'
+if os.path.exists(model_path):
+    model = load_model(model_path)
+else:
+    st.error("Model file not found. Please ensure 'model.h5' is in the repository.")
 ##load the encoder and scaler 
 with open('label_encode.pkl', 'rb') as file : 
     label_encode = pickle.load(file)
